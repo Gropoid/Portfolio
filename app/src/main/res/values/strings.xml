@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Portfolio</string>
-
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="MainPageTitleText">My Portfolio !</string>
+    <string name="MainPageButtonOneText">POPULAR MOVIES</string>
+    <string name="MainPageButtonTwoText">SCORES APP</string>
+    <string name="MainPageButtonThreeText">LIBRARY APP</string>
+    <string name="MainPageButtonFourText">BUILD IT BIGGER</string>
+    <string name="MainPageButtonFiveText">XYZ READER</string>
+    <string name="MainPageButtonSixText">CAPSTONE</string>
 </resources>

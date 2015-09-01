@@ -4,4 +4,20 @@
         <item name="colorPrimary">#F08C35</item>
     </style>
 
+    <style name="MainPageButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">43dp</item>
+    </style>
+
+    <style name="MainPageSecondaryButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignRight">@+id/button</item>
+        <item name="android:layout_alignEnd">@+id/button</item>
+        <item name="android:layout_alignLeft">@+id/button</item>
+        <item name="android:layout_alignStart">@+id/button</item>
+    </style>
+
 </resources>
