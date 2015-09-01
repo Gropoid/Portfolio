@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="PortFolioTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">#F08C35</item>
+    </style>
+
+</resources>
